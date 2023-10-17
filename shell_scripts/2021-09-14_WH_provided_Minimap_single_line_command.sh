@@ -1,0 +1,2 @@
+source minimap2-2.21
+minimap2 -x asm5 -t 8 /ei/projects/b/bf5bd887-9f19-4b18-8582-a20ac2a4eef2/data/results/hifiasm/satsuma/Oreochromis_niloticus.O_niloticus_UMD_NMBU.dna.primary_assembly.allLG.and.nonchromosomal.fa /ei/projects/9/9904ef47-97da-40a2-9cdc-f0e00f3c8378/data/Tilapia_genomes_transcriptomes/10x_assemblies/supernova-2.1.1/omossambicus/HiSeq4000assembly/Oreochromis_mossambicus_EIV1.fa -o /ei/projects/b/bf5bd887-9f19-4b18-8582-a20ac2a4eef2/data/results/hifiasm/UMD_mossambicus.paf
